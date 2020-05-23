@@ -9,6 +9,7 @@ group 'com.jsoft.restservice'
 version '1.0.0'
 
 sourceCompatibility = 1.8
+mainClassName = 'com.jsoft.restservice.ServiceApplication'
 
 repositories {
     mavenCentral()
